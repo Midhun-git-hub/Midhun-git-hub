@@ -60,16 +60,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/midhun-m-683126298">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://discord.com/users/770568742304219136">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://www.instagram.com/_midhun_codes_/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" style="margin: 0 10px;" />
   </a>
   <a href="https://react-portfolio-swart-eight.vercel.app/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" height="40" style="margin: 0 10px;" />
   </a>
 </p>
 
